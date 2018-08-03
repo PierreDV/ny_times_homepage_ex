@@ -12,3 +12,8 @@
   width: 970px;
   margin: 0 auto;
 }
+
+nav ul li {
+  display: block;
+  float: left;
+}
